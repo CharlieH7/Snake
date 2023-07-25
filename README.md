@@ -1,6 +1,6 @@
 # Snake Game
 
-- Demo: https://charlieH7.github.io/snake/
+- Demo: https://charlieh7.github.io/snake/
 
 Snake game from scratch using HTML5 canvas and javascript.
 
